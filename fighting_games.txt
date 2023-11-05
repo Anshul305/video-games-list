@@ -2,3 +2,5 @@ FIGHTING GAMES
 ==============
 1. Tekken
 2. Soul Caliber
+3. Mortal Kombat
+4. Samurai Jack
